@@ -1,0 +1,3 @@
+# Initial scaffolding and architecture
+
+This commit adds documentation and minimal workspace files to bootstrap the implementation of netWatch.

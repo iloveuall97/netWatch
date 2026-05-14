@@ -1,0 +1,14 @@
+[workspace]
+members = [
+    "core-engine",
+    "network-scanner",
+    "packet-engine",
+    "windows-integration",
+    "traffic-analyzer",
+    "traffic-control",
+    "plugin-sdk",
+    "database",
+    "backend-api",
+    "shared-types"
+]
+

@@ -1,0 +1,17 @@
+# .gitignore
+
+# Rust
+/target/
+**/*.rs.bk
+
+# Node
+/node_modules/
+/dist/
+/.parcel-cache/
+
+# Tauri
+/src-tauri/target/
+
+# Local env
+.env
+
